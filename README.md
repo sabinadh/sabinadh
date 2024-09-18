@@ -1,6 +1,6 @@
 # 🏄‍♂️ Hey there! I'm Sabin Adhikari 👋
 
-## System Administrator | DevOps Engineer | Game Developer
+## System Administrator | DevOps Engineer
 
 System Admin with a knack for performance and security. I dabble in C#, C++, PHP/JS, and have a thing for cloud stuff (Azure, AWS). Into DevOps, database tuning, and game dev with Unity/Unreal. Also into gaming, sports, music, graphic design, and I sometimes stream on YouTube. Skilled at managing online communities.
 
